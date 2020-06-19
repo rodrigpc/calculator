@@ -2,7 +2,7 @@ Calculator.js:
 ==============
 a node.js Demonstration Project
 
-[![Build Status](https://dev.azure.com/az400st20200690/Parts%20Unlimited/_apis/build/status/rodrigpc.calculator?branchName=master)](https://dev.azure.com/az400st20200690/Parts%20Unlimited/_build/latest?definitionId=5&branchName=master)
+[![Build Status](https://dev.azure.com/az400st20200690/Parts%20Unlimited/_apis/build/status/rodrigpc.calculator?branchName=master)](https://dev.azure.com/az400st20200690/Parts%20Unlimited/_build/latest?definitionId=5)
 
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
